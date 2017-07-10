@@ -1,0 +1,18 @@
+{
+  "name": "n",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "fahim panjwani"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

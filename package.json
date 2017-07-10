@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahimp222/app.git"
+  },
+  "author": "fahim panjwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahimp222/app/issues"
+  },
+  "homepage": "https://github.com/fahimp222/app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
